@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+}
+body { 
+    background-image: url("imagens/login-riot-background.jpg")
+}
+
+
+.logo {
+    display: flex; 
+    left: 6%; 
+    top: 60%; 
+
+}
+
+
+.h1 { 
+    display: flex; 
+    background-color: white;
+    left: 6; 
+    top: 30; 
+
+}
+
+
+
+
